@@ -98,7 +98,8 @@ jobs:
 
   notify:
     name: Send Email Notification
-    # needs: deploy
+    needs: build-and-push
+    if: always()  
     runs-on: ubuntu-latest
     steps:
       - name: Determine Environment
@@ -111,6 +112,15 @@ jobs:
             echo "ENVIRONMENT=development" >> $GITHUB_ENV
           fi
 
+      - name: Set notification message
+        id: set-message
+        run: |
+          if [[ "${{ job.status }}" == 'success' ]]; then
+            echo "NOTIFICATION_MESSAGE=The Go application has been successfully deployed to the ${{ env.ENVIRONMENT }} environment." >> $GITHUB_ENV
+          else
+            echo "NOTIFICATION_MESSAGE=The deployment of the Go application to the ${{ env.ENVIRONMENT }} environment has failed." >> $GITHUB_ENV
+          fi
+
       - name: Send email
         uses: dawidd6/action-send-mail@v3
         with:
@@ -120,7 +130,7 @@ jobs:
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: Go App Deployment - ${{ env.ENVIRONMENT }} Environment
           body: |
-            The Go application has been successfully deployed to the ${{ env.ENVIRONMENT }} environment.
+            ${{ env.NOTIFICATION_MESSAGE }}
             Branch: ${{ github.ref_name }}
             Commit: ${{ github.sha }}
             Check the workflow run here: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
