@@ -19,6 +19,8 @@ on:
 env:
   ECR_REPOSITORY_PREFIX: docker-go
   AWS_REGION: us-east-1
+  ECR_REGISTRY: 881490099618.dkr.ecr.us-east-1.amazonaws.com
+
 
 jobs:
   test:
