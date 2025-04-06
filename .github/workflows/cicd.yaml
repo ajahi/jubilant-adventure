@@ -93,9 +93,9 @@ jobs:
 #           # docker pull form ecr 
 #           # docker-compose up -d
 
-notify:
+  notify:
     name: Send Email Notification
-    needs: deploy
+    # needs: deploy
     runs-on: ubuntu-latest
     steps:
       - name: Determine Environment
