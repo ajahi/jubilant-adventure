@@ -1,0 +1,4003 @@
+.terraform/aws/.terraform# Ignore Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Ignore Terraform backend configuration files
+*.tfbackend
+*.tfbackend.*
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform .terraform directory
+.terraform/
+
+# Ignore Terraform provider cache
+.terraform.lock.hcl
+
+# Ignore Terraform workspace state
+.terraform.tfstate
+.terraform.tfstate.*
+
+# Ignore Terraform output files
+terraform.tfstate
+terraform.tfstate.*
+
+# Ignore Terraform log files
+*.log
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terraform crash reports
+crash.log
+crash.*.log
+
+# Ignore Terraform workspace state
+.terraform/workspaces/
+
+# Ignore Terraform output files
+*.out
+
+# Ignore Terraform dependency lock files
+.terraform.lock.hcl
+
+# Ignore Terraform provider cache
+.terraform/providers/
+
+# Ignore Terraform workspace state
+.terraform/environments/
+
+# Ignore Terraform plan files
+*.tfplan
+*.tfplan.*
+
+# Ignore Terra
